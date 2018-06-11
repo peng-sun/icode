@@ -1,6 +1,6 @@
 # DFS
 
-## subset 问题
+## Subset 问题
 
 ### 拓展问题
 - K sum II 
