@@ -2,6 +2,8 @@
 
 ## Subset 问题
 
+- 练习画树描述解题思路
+
 ### Follow up
 - [Subset II](https://leetcode.com/problems/subsets-ii/description/) (有重复元素)
   - 
