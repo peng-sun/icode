@@ -5,7 +5,7 @@
 ### 拓展问题
 - K sum II 
   - https://www.lintcode.com/problem/k-sum-ii/description
-- K sum I （dfs超时，需要动态规划解法）
+- K sum I （DFS解超时，需要动态规划解法）
   
 ### Follow up
 - 有重复元素
