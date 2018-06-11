@@ -3,6 +3,7 @@
 **解题要点**
 - 练习画树描述解题思路
 
+**Problem Category**
 - Subset 问题
 
 
